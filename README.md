@@ -32,7 +32,7 @@ Now navigate to http://localhost:9292/ in your browser.
 
 You can view 'Peeps' simply by navigating to the website, or by clicking on the "@Chitter" logo.
 
-![Main Peep Feed](https://www.dropbox.com/s/m9pmcm94ssdckeo/CHITTER_1.png?raw=1)
+![Main Peep Feed](https://www.dropbox.com/s/445lq1308mquztb/PXLZ-log-in.png?raw=1)
 
 In order to 'Peep' you need to create an account and log in. 
 
@@ -64,6 +64,7 @@ rspec
 
 ### TODO
 
+* Responsive (Bootstrap) styling (larger buttons, position elements, logo and backdrop.)
 * Consider using partials.
 * Consider whether controllers can be slimmed down further.
 * Use view helpers to remove amount of embedded Ruby and comply with SRP.
@@ -72,7 +73,6 @@ rspec
 * Integrate tagging other users to create conversations.
 * Rake task for first DB setup.
 * More comprehensive feature testing.
-* More CSS/styling (larger buttons, position elements, logo and backdrop.)
 
 
 ### Technologies used
