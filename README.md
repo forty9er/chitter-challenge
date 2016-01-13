@@ -2,6 +2,11 @@
 
 # @Chitter.
 
+### Duration
+
+2 days
+
+
 ### Live demo
 
 https://cryptic-citadel-4502.herokuapp.com/
