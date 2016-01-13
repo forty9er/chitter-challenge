@@ -2,18 +2,19 @@
 
 # @Chitter.
 
-### Installation
+### Live demo
 
-Visit:
 https://cryptic-citadel-4502.herokuapp.com/
 
-Alternatively, download the files in the repo, install the required Gems and run via a Sinatra server via Rackup on your local machine. You will also need a working PostgreSQL installation (you can install this via Brew).
+
+### Installation
+
+Download the files in the repo, install the required Gems and run via a Sinatra server via Rackup on your local machine. You will also need a working PostgreSQL installation (you can install this via Brew).
 The main controller is 'app.rb' in the 'app' directory. You will need a Ruby interpreter (if you are running OS X you already have this) and RVM installed.
 
-To clone the repo on your machine, initialise git and clone:
+To clone the repo on your machine:
 
 ```
-$ git init
 $ git clone https://github.com/forty9er/chitter_challenge
 ```
 
@@ -32,7 +33,7 @@ Now navigate to http://localhost:9292/ in your browser.
 
 You can view 'Peeps' simply by navigating to the website, or by clicking on the "@Chitter" logo.
 
-![Main Peep Feed](https://www.dropbox.com/s/445lq1308mquztb/PXLZ-log-in.png?raw=1)
+![Main Peep Feed](https://www.dropbox.com/s/445lq1308mquztb/CHITTER_1.png?raw=1)
 
 In order to 'Peep' you need to create an account and log in. 
 
@@ -55,7 +56,7 @@ The app was built using TDD. Before running you will need to initialize the test
 rake db:auto_migrate RACK_ENV=test
 ```
 
-Rspec tests can be run from the root directory simply by running:
+RSpec tests can be run from the root directory simply by running:
 
 ```
 rspec
