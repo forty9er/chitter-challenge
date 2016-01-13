@@ -33,7 +33,7 @@ Now navigate to http://localhost:9292/ in your browser.
 
 You can view 'Peeps' simply by navigating to the website, or by clicking on the "@Chitter" logo.
 
-![Main Peep Feed](https://www.dropbox.com/s/445lq1308mquztb/CHITTER_1.png?raw=1)
+![Main Peep Feed](https://www.dropbox.com/s/m9pmcm94ssdckeo/CHITTER_1.png?raw=1)
 
 In order to 'Peep' you need to create an account and log in. 
 
