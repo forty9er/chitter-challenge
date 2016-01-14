@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/forty9er/chitter-challenge.svg)](https://travis-ci.org/forty9er/chitter-challenge)
+[![Build Status](https://travis-ci.org/forty9er/chitter-challenge.svg)](https://travis-ci.org/forty9er/chitter.)
 
 # @Chitter.
 
